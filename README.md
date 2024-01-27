@@ -15,4 +15,5 @@ Featuring the majority of LocalDateTime operations, this vanilla JS class mimics
 
 
 **NOTE**
+
 This class does not behave exactly like Java LocalDateTime, and while it is intended to be as similar as possible, it is not perfect. I am not that experienced of a programmer.
